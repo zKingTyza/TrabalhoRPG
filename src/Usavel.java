@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Usavel {
+public interface Usavel {
+    void usar(Personagem usuario, Personagem alvo) throws ManaInsuficienteException, VidaExcedidaException;
 }

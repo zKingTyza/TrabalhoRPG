@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Jogador extends Personagem{
+public class Jogador extends Personagem {
     private int nivel;
     private int experiencia;
     private int mana;

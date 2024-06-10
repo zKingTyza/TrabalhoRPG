@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Atacavel {
+public interface Atacavel {
+    void receberDano(int dano);
 }

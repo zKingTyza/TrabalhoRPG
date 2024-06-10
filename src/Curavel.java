@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Curavel {
+public interface Curavel {
+    void receberCura(int cura) throws VidaExcedidaException;
 }
